@@ -1,4 +1,4 @@
-# TouchTest - MacOS AirHorn test.
+# TouchTest - MacOS AirHorn
 Based off of: https://github.com/mrmekon/touchtest
 
 ## Usage
