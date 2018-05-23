@@ -60,7 +60,7 @@ NSTouchBar *_groupTouchBar;
     NSAppleScript* as = [[NSAppleScript alloc] initWithSource:@"set volume 1"];
     [as executeAndReturnError:nil]; 
 
-    [555];
+    [airhorn stop];
     [airhorn play];
 }
 
